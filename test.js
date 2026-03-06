@@ -1,5 +1,5 @@
 function greet(name) {
   return "Hello " + name;
 }
-//commented branch 
+//commented 
 console.log(greet("Abitha"));
